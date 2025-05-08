@@ -16,8 +16,6 @@ export const App = ( elementId ) => {
         document.querySelector( elementId ).append( app );
     })();
 
-
-
 };
 
 
